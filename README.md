@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vireak Jonny San pleasure to meet you!
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning CSS, Javascript, Boostrap
-- 💞️ I’m looking to collaborate on more back end programs as well as learning new things!
+- 🌱 I’m developing my Front End Skills as well as the Back-End. Currently learning Mongo and MongoDB
+- 💞️ I’m looking to collaborate on just about anything!
 - 📫 How to reach me ...
  Please send me messages on linkedin!
  https://www.linkedin.com/in/vireak-san-472a25227/
