@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vireak Jonny San pleasure to meet you!
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m developing my Front End Skills as well as the Back-End. Currently learning Mongo and MongoDB
+- 🌱 I’m developing my Front End Skills as well as the Back-End. Currently learning React with hooks!
 - 💞️ I’m looking to collaborate on just about anything!
 - 📫 How to reach me ...
  Please send me messages on linkedin!
