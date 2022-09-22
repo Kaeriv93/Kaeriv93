@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vireak Jonny San pleasure to meet you!
+- 👋 Hi, I’m Vireak San pleasure to meet you!
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m developing my Front End Skills as well as the Back-End. Currently learning Angular!
 - 💞️ I’m looking to collaborate on just about anything!
